@@ -10,8 +10,6 @@ Eventour is an open-source framework that leverages Large Language Models (LLMs)
 - Providing a modular **codebase** for data ingestion, preprocessing/enrichment, distance matrix computation, LLM fine-tuning, itinerary generation, and gamification content  
 - Offering a React Native mobile application prototype (“Eventour”) for on-the-go delivery of itineraries and quizzes  
 
-> _“We present a framework that leverages enriched knowledge graphs comprising diverse datasets … to recommend personalised, context-aware itineraries. By employing LLMs, we aim to manage attendee flow, stagger departure times, and guide individuals through engaging points of interest. Additionally, we incorporate generative AI to design gamified content … These gamification elements … encourage staggered event departures, mitigating post-event congestion.”
-
 ---
 
 ## Features
@@ -35,4 +33,3 @@ Eventour is an open-source framework that leverages Large Language Models (LLMs)
   – React Native + Expo codebase for delivering itineraries and quizzes on iOS and Android  
 
 ---
-
